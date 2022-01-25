@@ -5,8 +5,8 @@
 * [Fiche TD1](TD1.pdf).
 
 * Liens classroom : 
-* * G1 :
-* * G2 :
-* * G3 :
-* * G4 :
+* * G1 : https://classroom.github.com/a/7lm5qeAS
+* * G2 : https://classroom.github.com/a/k8jssgc7
+* * G3 : https://classroom.github.com/a/YXJEVXaK
+* * G4 : https://classroom.github.com/a/vG54Vy4s
 
