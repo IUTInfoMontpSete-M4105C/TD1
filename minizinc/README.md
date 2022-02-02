@@ -22,6 +22,12 @@ For Zebra problem:
 *   14. The Japanese smokes Parliaments.
 *   15. The Norwegian lives next to the blue house.
 
+For send-more-money:
+
+output ["   ",show(S),show(E),show(N),show(D),"\n",
+        "+  ",show(M),show(O),show(R),show(E),"\n",
+        "= ",show(M),show(O),show(N),show(E),show(Y),"\n"];
+
 
 
 For n-queens:
