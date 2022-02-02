@@ -21,3 +21,13 @@ For Zebra problem:
 *   13. The Lucky Strike smoker drinks orange juice.
 *   14. The Japanese smokes Parliaments.
 *   15. The Norwegian lives next to the blue house.
+
+
+
+For n-queens:
+
+output	["8 queens, CP version:\n"] ++
+	[	if fix(q[i]) = j then "Q " else ". " endif ++
+	 	if j = n then "\n" else "" endif
+	|	i, j in 1..n
+	];
